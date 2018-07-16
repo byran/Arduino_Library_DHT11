@@ -12,10 +12,10 @@ DHT11	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-AbleToTakeReading KEYWORD2
-UpdateReadings  KEYWORD2
-Humidity  KEYWORD2
-Temperature  KEYWORD2
+AbleToTakeReading	KEYWORD2
+UpdateReadings	KEYWORD2
+Humidity	KEYWORD2
+Temperature	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
